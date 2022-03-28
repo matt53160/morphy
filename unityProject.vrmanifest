@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.projet_reamix_2022.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\REAMIX\\Documents\\Projet_REAMIX_2021-2022\\Reamix2021\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Projet_REAMIX_2022 [Testing]"
+        }
+      }
+    }
+  ]
+}
